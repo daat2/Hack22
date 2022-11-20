@@ -5,10 +5,11 @@
 
 The theme of the project is a music memory game board.The user interface is simple design which enables user to click the button to hear a sound and try to repeat the same sound in their memory. This is a fun game to help with concentration and focus.
 The initiative for this project is for students to apply their knowledge and collaborate in team to bring up ideas to build a functional music game page incorporating Code Institute lessons such as Html, CSS and Javascript.
+We have applied scrumm methdodology principles.
 
 ## User Stories 
 
-**Persona**: Gamer
+**Persona**: Gamer 
 
 1. As a gamer i am presented with a music memory game board,
    so that i can play the game.
@@ -18,16 +19,20 @@ The initiative for this project is for students to apply their knowledge and col
    so that i can press the start game button to play the game. 
    **Acceptance criteria**: Gamer was able to click the start game button and play.
 
-3. As gamer,i want to be able to listen to just the audio
+3. As a gamer, i want to be able to use the slider button to zoom in and out and rotate the game board
+so that i can play the game with ease.
+**Acceptance criteria**:  Gamer was able to zoom in and out and rotate the game board
+
+4. As gamer,i want to be able to listen to just the audio
    so that  i can hear the sound 
    **Acceptance criteria**: Gamer was able to listen to  the audio and hear the sound.
 
 
-4. As gamer,i want to be able to play the sound in sequence
+5. As gamer,i want to be able to play the sound in sequence
    so that i can play back my favorite sound.
   **Acceptance criteria** : Gamer was able to play sound in sequence, and played back its favourite sound
 
-5. As a gamer, i want to press the button to replay my favourite sound patterns .
+6. As a gamer, i want to press the button to replay my favourite sound patterns .
  so that i can test my memory level.
  **Acceptance criteria** :  Gamer was able to play favourite sound patterns from memory.
  
@@ -36,6 +41,7 @@ The initiative for this project is for students to apply their knowledge and col
 
 *Test objective* : For the gamer to play the game in sequence, by clicking the start game button and listen to sequence of sounds in patterns.
 
+* We have conducted the testing based on the user stories
 
 * The test was conducted across browsers- Firefox and Google Chrome and Safari 
 
@@ -44,7 +50,7 @@ The initiative for this project is for students to apply their knowledge and col
 
 * User Acceptance test was done by the scrum team and received feedback on the functioality.
 
-*  The user acceptance test was signed off. 
+*  The user acceptance test was signed off by scrum master.
 
 
  ## Wireframes:
@@ -52,7 +58,7 @@ The initiative for this project is for students to apply their knowledge and col
  Wireframe has been designed based on on high level functionality of the music game, some of this  might not be displayed in the final product of the game memory board.
  
 
- ## Media Files
+ ## Credits
 
 
  ## Deployment 
@@ -61,3 +67,7 @@ The initiative for this project is for students to apply their knowledge and col
 
 
  ## Acknowledgements
+
+
+
+## Credits
